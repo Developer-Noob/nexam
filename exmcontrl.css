@@ -1,0 +1,13 @@
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+  }
+
+body {
+    background-image: url('bgimg.png');
+    
+}
+
